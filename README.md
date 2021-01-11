@@ -2,6 +2,6 @@
 
 Orbital Project 2020 by NUS
 
-Project Level: Apollo 11
+Project Level: Artemis
 
 Authors: Jim Vincent, Terence Ho
